@@ -8,7 +8,8 @@ public class Arithmetic {
         // System.out.println("add=" +(A+B));
         //  System.out.println("Sub=" +(A-B));
         //  System.out.println("multiply=" +(A*B));
-         System.out.println("Divide=" +(A/B));
+        //  System.out.println("Divide=" +(A/B));
+         System.out.println("Modulo=" + (A%B));
 
     }
 }
