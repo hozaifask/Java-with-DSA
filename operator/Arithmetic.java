@@ -7,7 +7,8 @@ public class Arithmetic {
         int B=5;  
         // System.out.println("add=" +(A+B));
         //  System.out.println("Sub=" +(A-B));
-         System.out.println("multiply=" +(A*B));
+        //  System.out.println("multiply=" +(A*B));
+         System.out.println("Divide=" +(A/B));
 
     }
 }
