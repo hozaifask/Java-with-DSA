@@ -4,7 +4,10 @@ import java.util.*;
 public class Unary {
     public static void main(String args[]){
         int a=10;
-        int b=++a;
+        // PRE INCREMENT
+        // int b=++a;
+        // POST INCREMENT 
+        int b=a++;
         System.out.println(a);
         System.out.println(b);
 
