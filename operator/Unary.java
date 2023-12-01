@@ -9,7 +9,9 @@ public class Unary {
         // POST INCREMENT 
         // int b=a++;
         // PRE DECREMENT
-         int b=--a;
+        //  int b=--a;
+        //  POST DECREMENT
+           int b=a--;
         System.out.println(a);
         System.out.println(b);
 
