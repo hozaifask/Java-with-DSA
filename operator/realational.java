@@ -6,6 +6,8 @@ public class realational {
         // System.out.println(a!=b);
         // System.out.println(a>b);
         // System.out.println(a<b);
-        
+        // System.out.println(a>=b);
+        System.out.println(a<=b);
+
     } 
 }
