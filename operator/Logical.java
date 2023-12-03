@@ -6,6 +6,8 @@ public class Logical {
         //  OR operator
         // System.out.println((3>1)||(1>9));
         //  AND operator
-        System.out.println((3<8) && (8>6));
+        // System.out.println((3<8) && (8>6));
+        // NOT opertaor
+        System.out.println(!(3>8));
     }
 }
