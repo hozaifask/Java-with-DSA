@@ -6,14 +6,13 @@ public class TaxCalculator {
      int income=sc.nextInt();
      int tax;
      if(income<500000){
-        System.out.println(" Your tax is O");
+         tax=0;
      }else if(income<1000000 && income>=500000){
         tax=(int) (income * 0.2);
-        System.out.println("your tax is " + tax);
      }else{
-        System.out.println(tax=(int)(income * 0.3));
+       tax=(int)(income * 0.3);
      }
-    //  System.out.println("Your income is:" +tax);
+     System.out.println("Your income is:" +tax);
     }
     
 }
