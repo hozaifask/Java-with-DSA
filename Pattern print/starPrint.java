@@ -1,5 +1,11 @@
-package Pattern print;
-
 public class starPrint {
+    public static static void main (String args[]){
+        for()
+        
+        
+        {}
+
+
+    }
     
 }
