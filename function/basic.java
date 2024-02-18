@@ -1,10 +1,14 @@
 package function;
 
-public class basic {
-    public static void  printHelloworld(){
-        System.out.println("Helloworld");
-        
-
+public class Basic {
+    public static void printHelloWorld() {
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
     }
-    
+
+    public static void main(String[] args) {
+        printHelloWorld();
+    }
 }
